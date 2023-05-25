@@ -1,4 +1,4 @@
-public class Hello {
+public class Hello { // 커밋 -> 풀 -> 푸쉬
 	public static void main(String[] args) {
 		// 원격에서 작업했습니다.
 		// 원격에서 작업했습니다.
